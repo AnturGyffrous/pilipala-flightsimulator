@@ -53,6 +53,7 @@
     <Compile Include="CityTests.cs" />
     <Compile Include="LocationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuadtreeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
