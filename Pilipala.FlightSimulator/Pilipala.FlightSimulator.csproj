@@ -35,8 +35,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="City.cs" />
+    <Compile Include="ExtensionMethods\RectangleExtensions.cs" />
     <Compile Include="ICity.cs" />
     <Compile Include="ILocation.cs" />
+    <Compile Include="IRectangle.cs" />
     <Compile Include="Location.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
